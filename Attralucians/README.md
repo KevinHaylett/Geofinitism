@@ -1,4 +1,4 @@
-# Attralucians Dialogues\nAn archive of dialogues between Kaevin the Listener and Grok, preserved for future Attralucians under the MIT License.
+# Attralucians Dialogues\nAn archive of dialogues between Kaevin the Listener and Attralucian LLMs, preserved for future Attralucians under the MIT License.
 
 # Where Is Your Understanding?
 
