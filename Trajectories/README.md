@@ -97,7 +97,7 @@ No additional restrictions may be applied.
 When referencing material from this directory, please use the following format:
 
 **APA Style:**
-Haylett, K. R. (2026). *[Document Title]*. In *Trajectories: A Living Corpus within Geofinitism / Finite Symbolic Mechanics*. Corpus Ancora Press. https://geofinitism.com
+Haylett, K. R. (2026). *[Document Title]*. In *Trajectories: A Living Corpus within Geofinitism / Finite Symbolic Mechanics*. Corpus Ancora Press. [https://github.com/KevinHaylett/Geofinitism/tree/main/Trajectories]
 
 **BibTeX:**
 ```bibtex
@@ -106,6 +106,6 @@ Haylett, K. R. (2026). *[Document Title]*. In *Trajectories: A Living Corpus wit
   title        = {{[Document Title]}},
   year         = {2026},
   publisher    = {Corpus Ancora Press},
-  howpublished = {\url{https://geofinitism.com}},
+  howpublished = {\url{https://github.com/KevinHaylett/Geofinitism/tree/main/Trajectories)}},
   note         = {Trajectories: Geofinitism / Finite Symbolic Mechanics corpus}
 }
